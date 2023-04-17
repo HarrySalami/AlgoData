@@ -1,0 +1,20 @@
+[14-Dec-2022 20:32:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/algodata.fronttobackdevelopment.com/public_html/wp-admin/includes/template.php:2584) in /home/customer/www/algodata.fronttobackdevelopment.com/public_html/wp-includes/pluggable.php on line 1416
+[17-Jan-2023 14:36:35 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:39 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:47 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:48 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:49 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:50 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:51 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:52 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:53 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:54 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:55 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:58 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:36:59 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:37:01 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:37:02 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:37:03 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:37:04 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:37:05 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
+[17-Jan-2023 14:37:06 UTC] Auxin_Aq_Resize.process() error: $url parameter is required
